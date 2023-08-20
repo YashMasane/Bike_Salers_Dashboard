@@ -9,11 +9,8 @@ Welcome to the **Bikes Sales Dashboard** repository! This project focuses on ana
 
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+- [Installation](#installation)
 
 ## Project Overview
 
